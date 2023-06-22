@@ -1,0 +1,12 @@
+C_ID: 506569200912-lk3daj3d9a7qj6gr57apjkiiq3koa7hj.apps.googleusercontent.com
+
+CLIENT SECRET: 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
+
+
+passport.js file unused declara
+
+cmd
+
+C:\Users\mchan\google-auth\server>
+
+APP Name: ProGpt
